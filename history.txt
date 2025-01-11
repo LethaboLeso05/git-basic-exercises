@@ -1,0 +1,889 @@
+    1  sudo systemctl enable --now postgresql
+    2  cd zphisher
+    3  bash zphisher.sh
+    4  msfconsole
+    5  sudo start msfconsole
+    6  start msfconsole
+    7  sudo msfconsole
+    8  sudo apt install metasploit-framework
+    9  sudo metasploit-framework --configure -a
+   10  cd Dekstop
+   11  cd
+   12  cd Desktop
+   13  git clone https://github.com/trustedsec/social-engineer-toolkit setoolkit/
+   14  cd setoolkit
+   15  ls
+   16  pipe install -r requirements.txt
+   17  pip3 install -r requirements.txt
+   18  sudo apt install python3-pip
+   19  sudo apt install python
+   20  sudo python3-pip --configure -a
+   21  ls
+   22  sudo -y
+   23  sudo -i
+   24  sudo apt install nmap
+   25  ip add
+   26  nmap -sT 172.17.100.184/20
+   27  setoolkit
+   28  git clone https://github.com/sherlock-project/sherlock.git
+   29  cd sherlock
+   30  ls
+   31  python3 -m pip install -r requirements.txt
+   32  devel
+   33  cd sherlock_projects
+   34  cd sherlock_project
+   35  ls
+   36  cd
+   37  ls
+   38  pip install sherlock-project
+   39  docker run it --rm sherlock/sherlock
+   40  sudo apr install docker.io
+   41  sudo apt install docker.io
+   42  docker run -it --rm sherlock/sherlock
+   43  dnf isntall sherlock-project
+   44  ls
+   45  sherlock user123
+   46  sudo apt install sherlock
+   47  sherlock --version
+   48  sherlock lethabo Tablamotive
+   49  sherlock TablaMotive
+   50  sherlock LegodiMogau
+   51  sherlock LehlogonoloRagophala
+   52  python3 sherlock tablamotive
+   53  cd sherlock
+   54  python3 sherlock tablamotive
+   55  cd
+   56  sherlock SiphoMatlala
+   57  sherlock Shebeshxt
+   58  clear
+   59  git clone https://github.com/thewhiteh4t/seeker.git
+   60  ls
+   61  cd seeker
+   62  cd..
+   63  cd
+   64  cd seeker
+   65  ls
+   66  python3 seeker.py -p 80
+   67  python seeker.py -p 80
+   68  nano seeker.py
+   69  pip install sys
+   70  pip install psutil
+   71  python3 seeker.py -p 80
+   72  clear
+   73  python3 seeker.py -p 80
+   74  sudo apt update
+   75  sudo apt install ngrok
+   76  curl -sSL https://ngrok-agent.s3.amazonaws.com/ngrok.asc 	| sudo tee /etc/apt/trusted.gpg.d/ngrok.asc >/dev/null 	&& echo "deb https://ngrok-agent.s3.amazonaws.com buster main" 	| sudo tee /etc/apt/sources.list.d/ngrok.list 	&& sudo apt update 	&& sudo apt install ngrok
+   77  ngrok config add-authtoken 2p7IkbGgpji7RMnC6tElebp8kRf_soHKHLjcE1WuFjw5wcDJ
+   78  python3 seeker.py -p 80
+   79  clear
+   80  python3 seeker.py -p 80
+   81  clear
+   82  ls
+   83  clear
+   84  cd
+   85  ls
+   86  clear
+   87  ls
+   88  clear
+   89  setoolkit
+   90  clear
+   91  nano server.py
+   92  nano client.py
+   93  python3 client.py
+   94  nano client.py
+   95  python3 client.py
+   96  nano client.py
+   97  python3 client.py
+   98  clear
+   99  ip add
+  100  python client.py
+  101  python3 client.py
+  102  sudo apt install libopencv-dev python3-opencv
+  103  pip install numpy
+  104  pip install cv2
+  105  python3 client.py
+  106  ngrok http 8080
+  107  python3 server.py
+  108  ngrok http 80
+  109  sudo apt install ngrok
+  110  ngrok http http://localhost:8080
+  111  ngrok http 80
+  112  ls
+  113  clear
+  114  cd seeker
+  115  ls
+  116  bash install.sh
+  117  cd php
+  118  ls
+  119  cd
+  120  cd seeker
+  121  ngrok http 80
+  122  pip install socket
+  123  pip install subprocess
+  124  cd
+  125  python3 server.py
+  126  ls
+  127  python3 server.py
+  128  nano server.py
+  129  python3 server.py
+  130  nano server.py
+  131  python3 server.py
+  132  nano server.py
+  133  python3 server.py
+  134  sudo apt install cheese
+  135  cheese
+  136  mplayer tv://
+  137  sudo apt install mplayer
+  138  mplayer tv://
+  139  mplayer
+  140  sudo apt-get -y install cheese
+  141  cheese
+  142  sudo cheese
+  143  ls /dev/video*
+  144  lspci
+  145  clear
+  146  git clone https://github.com/hangetzzu.saycheese.git
+  147  git clone https://github.com/hangetzuu/saycheese.git
+  148  nano webcam.py
+  149  python3 webcam.py
+  150  pio install opencv
+  151  pip install opencv
+  152  python3 webcam.py
+  153  python3 server.py
+  154  bash python3 -m http.server 8080
+  155  nano client.py
+  156  python3 client.py
+  157  bash python3 client.py
+  158  bash ngrok http 8080
+  159  python3 client.py
+  160  ls
+  161  python3 server.py
+  162  clear
+  163  ls
+  164  python client.py
+  165  python3 client.py
+  166  clear
+  167  nano client.py
+  168  python3 client.py
+  169  clear
+  170  ls
+  171  clear
+  172  firefox
+  173  nano client.py
+  174  python3 server.py
+  175  clear
+  176  sudo -i
+  177  ifconfig
+  178  sudo apt update
+  179  ls
+  180  sherlock
+  181  sherlock lethabo tablmotive
+  182  sherlock DipuoDips
+  183  ls
+  184  touch LegodiMogau.txt
+  185  touch server.py
+  186  nano server.py
+  187  cd git-basic-exercises
+  188  git remote add origin https://github.com/LethaboLeso05/git-basic-exercises.git
+  189  git branch -M main
+  190  git push -u origin main
+  191  echo "# git-basic-exercises" >> README.md
+  192  git init
+  193  git add README.md
+  194  git commit -m "first commit"
+  195  git branch -M main
+  196  git remote add origin https://github.com/LethaboLeso05/git-basic-exercises.git
+  197  git push -u origin main
+  198  mkdir git-basic-exercises
+  199  cd git-basic-exercises
+  200  ls -a
+  201  git init
+  202  ls -a
+  203  git status
+  204  touch README.md
+  205  ls -a
+  206  git status
+  207  git log
+  208  git add README.md
+  209  git status
+  210  git rm --cached README.md
+  211  git status
+  212  git add README.md
+  213  git commit-m ïnitial commit
+  214  git commit -m "initial commit"
+  215  git config --global tablaofficial37@gmail.com
+  216  git config --global user.email "tablaofficial37@gmail.com"
+  217  git commit -m "initial commit"
+  218  git config --global.user.email "lethabo_leso@icloud.com"
+  219  git config --global user.email "lethabo_leso@icloud.com"
+  220  git config --global user.name "LethaboLeso05"
+  221  git commit -m "initial commit"
+  222  git log
+  223  nano README.md
+  224  cat README.md
+  225  git status
+  226  git commit -m "second commit"
+  227  nano README.md
+  228  git commit -m "third commit"
+  229  git log
+  230  git commit -m "second commit"
+  231  git log
+  232  git rm --cached README.md
+  233  nano README.md
+  234  git commit -m "second commit"
+  235  git log
+  236  nano README.md
+  237  git log
+  238  git rm --cached README.md
+  239  git add REAME.md
+  240  git add README.md
+  241  git rm --cached README.md
+  242  nano README.md
+  243  git commit -m "third commit"
+  244  nano README.md
+  245  git commit -m "third commit"
+  246  git log
+  247  git checkout d640dea6d9676b7f96fa646bc3ac5ed2374de268
+  248  cat README.md
+  249  git checkout main
+  250  q
+  251  git branch
+  252  git branch milkshake-flavours
+  253  git branch *
+  254  ls
+  255  git branch
+  256  git branch milkshake-flavours
+  257  git branch *
+  258  git checkout milkshake-flavours
+  259  nano milkshake.md
+  260  git status
+  261  git commit -m "added initial flavours"
+  262  git log
+  263  history > history.text
+  264  history > history.txt
+  265  git commit -m "added history"
+  266  del history.text
+  267  rm history.text
+  268  nano README.md
+  269  git commit -m "random readme changes"
+  270  git checkout history
+  271  git branch history
+  272  git checkout history
+  273  rm README.md
+  274  echo "booya" > README.md
+  275  git commit -m "rewrote readme"
+  276  git checkout main
+  277  ls
+  278  git log
+  279  git checkout milkshake-flavours
+  280  ls
+  281  git chekcout main
+  282  git checkout main
+  283  git branch main
+  284  git checkout main
+  285  git merge milkshake-flavours
+  286  ls
+  287  git log
+  288  git checkout history
+  289  git log
+  290  git checkout milkshake-flavours
+  291  git log
+  292  git checkout main
+  293  git checkout history
+  294  git merge main
+  295  git log
+  296  git remote add origin https://github.com/LethaboLeso05/git-basic-exercises.git
+  297  git branch -M main
+  298  git push -u origin main
+  299  git remote add origin https://github.com/LethaboLeso05/git-basic-exercises.git
+  300  git branch -M main
+  301  git push -u origin main
+  302  git remote add origin https://github.com/LethaboLeso05/git-basic-exercises.git
+  303  git branch -M main
+  304  git push -u origin main
+  305  git remote add origin https://github.com/LethaboLeso05/git-basic-exercises.git
+  306  git branch -M main
+  307  git push -u origin main
+  308  clear
+  309  ls
+  310  rm git-basic-exercises
+  311  rmdir git-basic-exercises
+  312  rm -r git-basic-exercises
+  313  cd git-basic-exercises
+  314  ls
+  315  rm milkshake.md
+  316  ls
+  317  cd
+  318  rm -r git-basic-exercises
+  319  rmdir git-basic-exercises
+  320  clear
+  321  ls
+  322  cd git-basic-exercises
+  323  ls
+  324  clear
+  325  mkdir git-basic-exercise
+  326  ls
+  327  clear
+  328  cd
+  329  mkdir git-basic-exercises
+  330  del
+  331  del git-basic-exercises
+  332  celar
+  333  clear
+  334  ls
+  335  rm -rf git-basic-exercises
+  336  ls
+  337  mkdir git-basic-exercises
+  338  ls
+  339  clear
+  340  cd git-basic-exercises
+  341  ls -a
+  342  git init
+  343  ls -a
+  344  git status
+  345  touch README.md
+  346  ls -a
+  347  git status
+  348  git log
+  349  git add README.md
+  350  git status
+  351  git reset README.md
+  352  git status
+  353  git add README.md
+  354  git status
+  355  git commit -m "initial commit"
+  356  git log
+  357  q
+  358  nano README.md
+  359  cat README.md
+  360  git status
+  361  git add README.md
+  362  git status
+  363  git commit -m "second commit"
+  364  nano README.md
+  365  git status
+  366  git add README.md
+  367  git commit -m "third commit"
+  368  git log
+  369  git checkout e4da6d9fffcbe376aaf3de51d00301e5eb39891f
+  370  cat README.md
+  371  git checkout main
+  372  git checkout master
+  373  cat README.md
+  374  git branch
+  375  git checkout milkshake-flavours
+  376  git branch milkshake-flavours
+  377  git branch
+  378  git checkout milkshake-flavours
+  379  nano milkshakes.md
+  380  git status
+  381  git add milkshakes.md
+  382  git commit -m "added initial flavours"
+  383  git log
+  384  git checkout master
+  385  git branch history
+  386  git checkout history
+  387  git log
+  388  git branch
+  389  history > history.txt
+  390  git status
+  391  git add history.txt
+  392  git commit -m "added history"
+  393  git log
+  394  git chekcout milkshake-flavours
+  395  git branch
+  396  git checkout milkshake-flavours
+  397  git log
+  398  nano milshake.md
+  399  ls
+  400  nano milskakes.md
+  401  ls
+  402  touch milkshakes.md
+  403  nano milkshakes.md
+  404  git add milkshakes.md
+  405  git reset milkshakes.md
+  406  touch milkshakes.md
+  407  nano README.md
+  408  git add README.md
+  409  git commit -m "random readme changes"
+  410  git checkout history
+  411  nano milkshakes.md
+  412  git checkout history
+  413  git commit -m ""
+  414  git add milkshakes.md
+  415  git commit -m ""
+  416  git commit -m "milshake changes"
+  417  git checkout history
+  418  ls
+  419  cat README.md
+  420  rm README.md
+  421  echo "booya" > README.md
+  422  git add README.md
+  423  git commit -m "rewrote readme"
+  424  git checkout main
+  425  git checkout master
+  426  ls
+  427  git log
+  428  git checkout milkshake-flavours
+  429  ls
+  430  git log
+  431  git checkout history
+  432  ls
+  433  git log
+  434  git checkout master
+  435  git merge milkshake-flavours
+  436  ls
+  437  git log
+  438  git checkout master
+  439  git merge history
+  440  ls
+  441  git log
+  442  git checkout history
+  443  git log
+  444  git checkout milkshake-flavours
+  445  git log
+  446  git checkout history
+  447  git merge master
+  448  git remote add origin https://github.com/LethaboLeso05/git-basic-exercises.git
+  449  git branch -M main
+  450  git push -u origin main
+  451  git init
+  452  git remote add origin https://github.com/LethaboLeso05/git-basic-exercises.git
+  453  git remote add origin https://github.com/lethaboleso05/git-basic-exercises.git
+  454  git remote add origin https://github.com/LethaboLeso05/git-basic-exercises.git
+  455  git add
+  456  git push -u origin main
+  457  git push -u origin master
+  458  git commit -m "lastcommit"
+  459  git branch
+  460  git merge milkshake-flavours
+  461  clear
+  462  cd
+  463  ls
+  464  rm -rf git-basic-exercises
+  465  mkdir git-basic-exercises
+  466  cd git-basic-exercises
+  467  ls -a
+  468  git init
+  469  ls -a
+  470  git status
+  471  touch README.md
+  472  ls -a
+  473  git log
+  474  git add README.md
+  475  git status
+  476  git reset README.md
+  477  git status
+  478  git add README.md
+  479  git commit -m "initial commit"
+  480  git log
+  481  nano README.md
+  482  cat README.md
+  483  git status
+  484  git add README.md
+  485  git commit -m "second commit"
+  486  nano README.md
+  487  git add README.md
+  488  git commit -m "third commit"
+  489  git log
+  490  git checkout dd3c749b58f3a991d79efe1759dfdd40602fb608
+  491  cat README.md
+  492  git checkout master
+  493  cat README.md
+  494  git branch
+  495  git branch milkshake-flavours
+  496  git branch
+  497  git checkout milkshake-flavours
+  498  nano milshakes.md
+  499  git status
+  500  ls
+  501  rm milshakes.md
+  502  ls
+  503  nano milkshakes.md
+  504  git status
+  505  git add milkshakes.md
+  506  git commit -m "added initial flavours"
+  507  git log
+  508  git checkout master
+  509  git branch history
+  510  git checkout history
+  511  git log
+  512  git branch
+  513  history > history.txt
+  514  git add history.txt
+  515  git commit -m "added history"
+  516  git log
+  517  git checkout milkshake-flavours
+  518  git log
+  519  ls
+  520  nano README.md
+  521  git add README.md
+  522  git commit -m "random readme changes"
+  523  git checkout history
+  524  cat README.md
+  525  rm README.md
+  526  echo "booya" > README.md
+  527  git add README.md
+  528  git commit -m "rewrote readme"
+  529  git checkout master
+  530  ls
+  531  git log
+  532  git checkout milkshake-flavours
+  533  ls
+  534  git log
+  535  git checkout history
+  536  ls
+  537  git log
+  538  git checkout master
+  539  git merge milkshake-flavours
+  540  ls
+  541  git log
+  542  git branch
+  543  ls
+  544  git chekcout history
+  545  git checkout history
+  546  ls
+  547  git checkout master
+  548  git merge history
+  549  git branch
+  550  ls
+  551  nano README.md
+  552  git add README.md
+  553  git commit
+  554  git branch
+  555  git merge history
+  556  ls
+  557  git log
+  558  git checkout history
+  559  git log
+  560  git checkout milkshake-flavours
+  561  git log
+  562  git checkout history
+  563  git merge master
+  564  git checkout master
+  565  git log
+  566  git init
+  567  git remote add origin https://github.com/LethaboLeso05/git-basic-exercises.git
+  568  git add .
+  569  git commit -m "Commiting all files"
+  570  git push -u origin master
+  571  git branch
+  572  cd
+  573  mkdir Coding-Challenges
+  574  cd Coding-Challenges
+  575  git init
+  576  git branch
+  577  git checkout main
+  578  git checkout master
+  579  git branch master
+  580  ls
+  581  git status
+  582  touch README.md
+  583  git status
+  584  git log
+  585  git add README.md
+  586  git commit -m "initial commit"
+  587  git branch
+  588  git checkout master
+  589  git pull
+  590  git checkout -b task 1
+  591  git checkout -b task1
+  592  nano task1.js
+  593  git add task1.js
+  594  git commit -m "Completed task 1"
+  595  git push origin task1
+  596  git branch --set-upstream-to=origin/master master
+  597  git fetch origin
+  598  clear
+  599  ls
+  600  git push -u origin master
+  601  git clone https://github.com/LethaboLeso05/Level1Coding.git
+  602  cd Level1Coding
+  603  clear
+  604  cd
+  605  ls
+  606  clear
+  607  git clone https://github.com/LethaboLeso05/Level1Coding.git
+  608  cd Level1Coding
+  609  git branch
+  610  git checkout master
+  611  ls
+  612  touch README.md
+  613  git add README.md
+  614  git commit -m 'readme file'
+  615  git branch
+  616  git pull
+  617  git checkout -b task1
+  618  nano task1.js
+  619  git add task1.js
+  620  git commit -m "Task 1 Completed"
+  621  git push -u origin task1
+  622  git chekcout master
+  623  git checkout master
+  624  git branch
+  625  git checkout main
+  626  git merge task1
+  627  git pull
+  628  git checkout -b task2
+  629  nano task2.js
+  630  git add task2.js
+  631  git commit -m "task2 completed"
+  632  git push -u origin task2
+  633  git checkout main
+  634  git merge task2
+  635  git checkout task3
+  636  git checkout -b task3
+  637  git pull
+  638  git checkout main
+  639  git pull
+  640  git checkout task3
+  641  nano task3.js
+  642  git add task3.js
+  643  git commit -m "Task3 Completed"
+  644  git push -u origin task3
+  645  git checkout main
+  646  git merge task3
+  647  git branch
+  648  git pull
+  649  git checkout -b task4
+  650  nano task4.js
+  651  git add task4.js
+  652  git commit -m "Task4 Completed"
+  653  git push -u origin task4
+  654  git checkout main
+  655  git merge task4
+  656  git pull
+  657  git checkout -b task5
+  658  nano task5.js
+  659  git add task5.js
+  660  git commit -m "Task5 Completed"
+  661  git push -u origin task5
+  662  git pull
+  663  git checkout main
+  664  git merge task5
+  665  git pull
+  666  git checkout -b task6
+  667  nano task6.js
+  668  git add task6.js
+  669  git commit -m "Task6 Completed"
+  670  git push -u origin task6
+  671  git checkout main
+  672  git merge task6
+  673  git checkout -b task7
+  674  git checkout main
+  675  git pull
+  676  git checkout task7
+  677  nano task7.js
+  678  git add task7.js
+  679  git commit -m "Task7 Completed"
+  680  git push -u origin task7
+  681  git checkout main
+  682  git merge task7
+  683  git branh --unset-upstream
+  684  git branch --unset-upstream
+  685  git branch
+  686  git clone https://github.com/Umuzi-org/Lethabo-Leso-219-level-1-programming-katas-javascript.git
+  687  git branch
+  688  cd
+  689  git clone https://LethaboLeso05@github.com/Umuzi-org/Lethabo-Leso-219-level-1-programming-katas-javascript.git
+  690  sudo apt update git
+  691  git --version
+  692  sudo apt install git
+  693  git --version
+  694  git clone https://github.com/Umuzi-org/Lethabo-Leso-219-level-1-programming-katas-javascript.git
+  695  ls
+  696  rm -rf git-basic-exercises
+  697  cls
+  698  cler
+  699  clear
+  700  ls
+  701  rm -rf Coding-Challenges
+  702  clear
+  703  mkdir git-basic-exericises
+  704  cd git-basic-exercises
+  705  ls
+  706  cd git-basic-exercises
+  707  git-basic-exercises
+  708  rm -rf git-basic-exericises
+  709  clear
+  710  mkdir git-basic-exercises
+  711  cd git-basic-exercises
+  712  ls -a
+  713  clear
+  714  git init
+  715  git status
+  716  clear
+  717  touch README.md
+  718  ls -a
+  719  git status
+  720  clear
+  721  git log
+  722  clear
+  723  git add README.md
+  724  git commit -m "initial commit"
+  725  git log
+  726  nano README.md
+  727  cat README.md
+  728  git add README.md
+  729  git commit -m "second commit"
+  730  nano README.md
+  731  git add README.md
+  732  git commit -m "third commit"
+  733  clear
+  734  git log
+  735  clear
+  736  git log
+  737  git checkout 6c4c3726d188000d1ac49f2d9939dc33efc311d8
+  738  git branch
+  739  cat README.md
+  740  git checkout master
+  741  cat README.md
+  742  git checkout -b milkshake-flavours
+  743  git branch
+  744  nano milkshakes.md
+  745  git status
+  746  git add milkshakes.md
+  747  git commit -m "added initial flavours"
+  748  git log
+  749  git checkout master
+  750  git checkout -b history
+  751  git log
+  752  git branch
+  753  history > history.txt
+  754  git add history.txt
+  755  git commit -m "added history"
+  756  git log
+  757  git checkout milkshake-flavours
+  758  git log
+  759  ls
+  760  git branch
+  761  nano README.md
+  762  git add README.md
+  763  git commit -m "random readme changes"
+  764  git checkout history
+  765  cat README.md
+  766  git branch
+  767  rm README.md
+  768  echo "booya" README.md
+  769  git add README.md
+  770  git commit -m "rewrote readme"
+  771  git checkout master
+  772  ls
+  773  git log
+  774  git checkout milkshake-flavours
+  775  ls
+  776  git log
+  777  git checkout history
+  778  ls
+  779  git log
+  780  touch README.md
+  781  nano README.md
+  782  ls
+  783  git log
+  784  git checkout main
+  785  git checkout master
+  786  git add README.md
+  787  git commit -m "rewrote readme"
+  788  ls
+  789  git checkout master
+  790  git merge milkshake-flavours
+  791  ls
+  792  git log
+  793  git branch
+  794  git merge history
+  795  nano README.md
+  796  nano README.mf
+  797  ls
+  798  nano README.md
+  799  git add README.md
+  800  git commit
+  801  ls
+  802  git log
+  803  git branch
+  804  git checkout history
+  805  git log
+  806  git checkout milkshake-flavours
+  807  git log
+  808  git branch
+  809  git checkout history
+  810  git merge master
+  811  git log
+  812  git checkout master
+  813  git log
+  814  git remote add origin https://github.com/LethaboLeso05/git-basic-exercises.git
+  815  git branch -M main
+  816  git push -u origin main
+  817  ls
+  818  git branch
+  819  git bracnh
+  820  git branch
+  821  git checkout history
+  822  ls
+  823  git checkout milkshake-flavours
+  824  ls
+  825  sudo systemctl enable --now postgresql
+  826  ps -p 1
+  827  sudo systemctl enable postgresql
+  828  sudo systemctl start postgresql
+  829  git checkout main
+  830  ls
+  831  git checkou history
+  832  git checkout history
+  833  ls
+  834  nano history.txt
+  835  git log
+  836  git remote add origin https://github.com/LethaboLeso05/git-basic-exercises.git
+  837  git branch -M main
+  838  git push -u origin main
+  839  git push -u origin master
+  840  git push -u origin main
+  841  clear
+  842  git checkout master
+  843  git branch
+  844  cler
+  845  clrar
+  846  clear
+  847  cd
+  848  rm -rf git-basic-exercises
+  849  mkdir git-basic-exercises
+  850  cd git-basic-exercises
+  851  ls -a
+  852  git init
+  853  ls -a
+  854  git status
+  855  clear
+  856  touch README.md
+  857  ls -a
+  858  git log
+  859  git add README.md
+  860  git commit -m "initial commit"
+  861  git log
+  862  clear
+  863  nano README.md
+  864  cat README.md
+  865  git status
+  866  git add README.md
+  867  git commmit -m "second commit"
+  868  git commit -m "second commit"
+  869  clear
+  870  nano README.md
+  871  git add README.md
+  872  git commit -m "third commit"
+  873  git log
+  874  git checkout 4ab552c9b202f85fa1b3691d5ad6c70fba4a331b
+  875  cat README.md
+  876  git checkout master
+  877  cat README.md
+  878  git branch
+  879  git checkout -b milkshake-flavours
+  880  git branch
+  881  nano milkshakes.md
+  882  git add milkshakes.md
+  883  git commit -m "added initial flavours"
+  884  git log
+  885  git checkout master
+  886  git checkout -b history
+  887  git log
+  888  git branch
+  889  history > history.txt
