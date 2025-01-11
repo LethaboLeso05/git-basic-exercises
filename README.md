@@ -1,1 +1,1 @@
-Hi, my name is Leso Lethabo. This is Umuzi Bootcamp.
+Hi, my name is Leso Lethabo. This is Umuzi Web Development Bootcamp.
